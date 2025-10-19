@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src=".assets/Gemini_Generated_Image_nwi3g5nwi3g5nwi3.png"
+    src=".Ebook/assets/Gemini_Generated_Image_nwi3g5nwi3g5nwi3.png"
     width="400"  
 />
 </p>
