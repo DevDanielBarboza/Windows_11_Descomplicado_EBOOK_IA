@@ -1,18 +1,6 @@
 <p align="center">
-    <img width="100" src=".github/assets/banner.png">
-</p>
-
-
-<p align="center">
-<a href="https://dio.me/"><img src="https://img.shields.io/badge/DIO-Course-28DA77?logo=youtube" alt="DIO - course"></a>
-<a href="https://www.gnu.org/software/bash/" title="Go to Bash homepage"><img src="https://img.shields.io/badge/Prompt-Project-blue?logo=gnu-bash&amp;logoColor=white" alt="Made with Bash"></a></p>
-
--------
-
-
-<p align="center">
 <img 
-    src="./assets/cover.png"
+    src=".assets/Gemini_Generated_Image_nwi3g5nwi3g5nwi3.png"
     width="400"  
 />
 </p>
@@ -30,7 +18,7 @@ seguem abaixo.
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [gemeni](https://gemini.google.com/)
+- [Gemeni](https://gemini.google.com/)
 - [Canva](https://www.canva.com/)
 
 ## 🧠 Prompts
