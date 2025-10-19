@@ -18,7 +18,7 @@ seguem abaixo.
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [Gemeni](https://gemini.google.com/)
+- [Gemini](https://gemini.google.com/)
 - [Canva](https://www.canva.com/)
 
 ## 🧠 Prompts
