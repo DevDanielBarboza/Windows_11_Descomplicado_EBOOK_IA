@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="main/Ebook/assets/Gemini_Generated_Image_nwi3g5nwi3g5nwi3.png"
+    src="https://github.com/DevDanielBarboza/Windows_11_Descomplicado_EBOOK_IA/blob/main/Ebook/assets/Gemini_Generated_Image_nwi3g5nwi3g5nwi3.png"
     width="400"  
 />
 </p>
